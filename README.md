@@ -17,4 +17,4 @@ Non brian douglas resources
 * [Control bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by steve brunton (the rest of his channel is great too)
 * [Control Theory by lum](https://www.youtube.com/playlist?list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o) covers more math then the others
 * [Model Predictive Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8) high level explaination of MPC
-* [Underactuated](http://underactuated.mit.edu/index.html) free ebook from mit
+* Underactuated MIT [web notes](http://underactuated.mit.edu/index.html), [lectures](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg)
