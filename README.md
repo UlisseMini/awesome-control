@@ -18,3 +18,4 @@ Non brian douglas resources
 * [Control Theory by lum](https://www.youtube.com/playlist?list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o) covers more math then the others
 * [Model Predictive Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8) high level explaination of MPC
 * Underactuated MIT [web notes](http://underactuated.mit.edu/index.html), [lectures](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg)
+* [Trajectory Optimization](http://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html) (has demos, and presentation with slides)
